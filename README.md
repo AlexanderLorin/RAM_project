@@ -1,11 +1,14 @@
 # RAM_project
 ## Project 2-ETL   
+
 **Team Name**: 
 RAM Project 
+
 **Team Members**:
 • Rajeswari Natchiappan 
 • Alexander Lorin 
 • Marc Avoaka 
+
 **Topic**: 
 Vegetarian & Vegan Restaurants 
 
