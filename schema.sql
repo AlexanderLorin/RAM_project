@@ -6,10 +6,10 @@ CREATE TABLE vvr (
   country TEXT,
   postalcode TEXT,
   categories TEXT,
-  facebookpageurl TEXT,
   phones TEXT,
-  pricerange TEXT,
+  curreny TEXT,
+  lowest_price_range TEXT,
+  highest_price_range TEXT,
   province TEXT,
-  twitter TEXT,
   websites TEXT
 );
