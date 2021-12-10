@@ -5,9 +5,9 @@
 RAM Project 
 
 **Team Members**:
-• Rajeswari Natchiappan 
-• Alexander Lorin 
-• Marc Avoaka 
+- Rajeswari Natchiappan 
+- Alexander Lorin 
+- Marc Avoaka 
 
 **Topic**: 
 Vegetarian & Vegan Restaurants 
